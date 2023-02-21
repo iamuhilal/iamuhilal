@@ -5,13 +5,13 @@ I'm Hilal, UI/UX Designer and Junior Web Developer from Surabaya, Indonesia .
 
 ## Its all about me 😊
 
-Some project I have been made use ✏️
+Some project I have been made use ✏️<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,tailwind,bootstrap)](https://skillicons.dev)
 
-also familliar with software 📐
+also familliar with software 📐<br/>
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,ai,unity)](https://skillicons.dev)
 
-and I'm currently learning 📖
+and I'm currently learning 📖<br/>
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongo,next)](https://skillicons.dev)
 
 ## Find Me 📱
