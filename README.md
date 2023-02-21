@@ -1,24 +1,24 @@
-### 👋 Hi my friends
+## Hi my friends 👋
 
 Welcome to my GitHub page
-I'm Hilal, Junior Web Developer from Surabaya, Indonesia {U+1F1EE U+1F1E9} , currently living in Stockholm, Sweden.
+I'm Hilal, UI/UX Designer and Junior Web Developer from Surabaya, Indonesia .
 
-Im currently learning
-[![AGPL License](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)](http://www.gnu.org/licenses/agpl-3.0) [![AGPL License](https://camo.githubusercontent.com/533da8800843b57b91a3227ce7d151ca865a0eeaae675715e209c0092314fa96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3435623864383f7374796c653d666c61742d737175617265266c6f676f3d7265616374266c6f676f436f6c6f723d7768697465)](http://www.gnu.org/licenses/agpl-3.0)
-[![React JS](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-[![React JS](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+## Its all about me 😊
 
-<!--
-**iamuhilal/iamuhilal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some project I have been made use ✏️
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,cs,tailwind,bootstrap)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+also familliar with software 📐
+[![My Skills](https://skillicons.dev/icons?i=vscode,figma,ai,unity)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+and I'm currently learning 📖
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongo,next)](https://skillicons.dev)
+
+## Find Me 📱
+
+[![Github Badge](https://img.shields.io/badge/-iamuhilal@gmail.com-c71610?style=flat&logo=gmail&logoColor=white)](your-linkedin-url)
+[![Github Badge](https://img.shields.io/badge/-iamuhilal-333?style=flat&logo=GitHub&logoColor=white)](your-linkedin-url)
+[![Instagram Badge](https://img.shields.io/badge/-uix.hilal-d62976?style=flat&logo=Instagram&logoColor=white)](your-linkedin-url)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Hilal-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+[![Dribbble Badge](https://img.shields.io/badge/-iamHilal-ea4c89?style=flat&logo=Dribbble&logoColor=white)](your-linkedin-url)
+[![Behance Badge](https://img.shields.io/badge/-iamHilal-111111?style=flat&logo=Behance&logoColor=white)](your-linkedin-url)
