@@ -16,9 +16,9 @@ and I'm currently learning 📖<br/>
 
 ## Find Me 📱
 
-[![Github Badge](https://img.shields.io/badge/-iamuhilal@gmail.com-c71610?style=flat&logo=gmail&logoColor=white)](your-linkedin-url)
-[![Github Badge](https://img.shields.io/badge/-iamuhilal-333?style=flat&logo=GitHub&logoColor=white)](your-linkedin-url)
-[![Instagram Badge](https://img.shields.io/badge/-uix.hilal-d62976?style=flat&logo=Instagram&logoColor=white)](your-linkedin-url)
-[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Hilal-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-[![Dribbble Badge](https://img.shields.io/badge/-iamHilal-ea4c89?style=flat&logo=Dribbble&logoColor=white)](your-linkedin-url)
-[![Behance Badge](https://img.shields.io/badge/-iamHilal-111111?style=flat&logo=Behance&logoColor=white)](your-linkedin-url)
+[![Gmail Badge](https://img.shields.io/badge/-iamuhilal@gmail.com-c71610?style=flat&logo=gmail&logoColor=white)](mailto:iamuhilal@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-iamuhilal-333?style=flat&logo=GitHub&logoColor=white)](https://github.com/iamuhilal)
+[![Instagram Badge](https://img.shields.io/badge/-uix.hilal-d62976?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/uix.hilal/)
+[![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Hilal-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/iamuhilal)
+[![Behance Badge](https://img.shields.io/badge/-iamHilal-111111?style=flat&logo=Behance&logoColor=white)](https://www.behance.net/iamHilal)
+[![Dribbble Badge](https://img.shields.io/badge/-iamHilal-ea4c89?style=flat&logo=Dribbble&logoColor=white)](https://dribbble.com/iamHilal)
